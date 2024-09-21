@@ -14,6 +14,7 @@ class _LoginPageState extends State<LoginPage> {
       // for backgraund colour
       backgroundColor: const Color(0xFFFFFDFB),
       body: SingleChildScrollView(
+        // column to show path
         child: Column(
           children: [
             // Container for the background image
